@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @samiul1998
-- 👀 I’m interested in web development
+- 👋 Hi, I’m @samiulIslam 
+- 👀 I’m looking for scopes in Web Development 
 - 🌱 I’m currently learning MERN Stack development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me https://www.facebook.com/mesamiul/
