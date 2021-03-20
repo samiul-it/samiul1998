@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiulIslam 
+- 👋 Hi, I’m Samiul Islam 
 - 👀 I’m looking for scopes in Web Development 
 - 🌱 I’m currently learning MERN Stack development
 - 💞️ I’m looking to collaborate on web development
